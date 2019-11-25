@@ -8,7 +8,7 @@ import (
 	"github.com/prometheus/client_golang/prometheus/promhttp"
 	"github.com/prometheus/common/version"
 	log "github.com/sirupsen/logrus"
-	"github.com/terrycain/389ds_exporter/exporter"
+  "github.com/terrycain/389ds_exporter/exporter"
 )
 
 var (
